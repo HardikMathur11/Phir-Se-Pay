@@ -1,0 +1,34 @@
+:root {
+  /* Elevated Ledger Core Color Tokens */
+  --color-page-bg: #FBFBFA;
+  --color-surface: #FFFFFF;
+  --color-surface-sunken: #F7F8F6;
+  --color-ink: #14171A;
+  --color-ink-secondary: #6B7280;
+  --color-ink-tertiary: #8A8D91;
+  --color-border: #E9EAE7;
+
+  /* Status Role Tokens */
+  --color-recovered: #12805C;
+  --color-recovered-bg: #E3F1EA;
+  --color-pending: #B45309;
+  --color-pending-bg: #FBF1E4;
+  --color-escalated: #4338CA;
+  --color-escalated-bg: #ECEBFA;
+  --color-stopped: #6B7280;
+  --color-stopped-bg: #F3F4F6;
+  --color-neutral: #374151;
+  --color-neutral-bg: #F3F4F6;
+
+  /* Elevation & Geometry */
+  --shadow-card: 0 1px 2px rgba(20, 23, 26, 0.04), 0 12px 32px rgba(20, 23, 26, 0.06);
+  --shadow-tile-hover: 0 2px 8px rgba(20, 23, 26, 0.08);
+  --radius-card: 20px;
+  --radius-tile: 14px;
+  --radius-pill: 20px;
+
+  /* Typography */
+  --font-display: "Fraunces", Georgia, serif;
+  --font-ui: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-data: "IBM Plex Mono", monospace;
+}
